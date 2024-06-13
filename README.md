@@ -1,3 +1,3 @@
-# sports-connections
+# name tbd
 
-we can change the name later whenever we figure out what we're actually building.
+practice problem oriented educational site 
