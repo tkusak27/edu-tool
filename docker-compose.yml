@@ -22,9 +22,9 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data/
 
-  frontend:
+  front:
     build:
-      context: ./frontend
+      context: ./front
     ports:
       - "3000:3000"
     environment:
